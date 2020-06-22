@@ -1,6 +1,6 @@
 <img src="./results.gif" align="center"></img>
 <h1 align="center">MyAnimeList Dracula Theme</h1>
-<p align="center">A <a href="https://github.com/dracula/dracula-theme">dark dracula</a> palette for <strong>MyAnimeList</strong></p>
+<p align="center">A <a href="https://github.com/dracula/dracula-theme">dark dracula</a> palette for <strong>MyAnimeList</strong>. 🧛</p>
 
 ## Install
 Change you're default Anime/Manga MyAnimeList theme to **[Dark Blue](https://myanimelist.net/ownlist/style)** and click it's image so you can edit the CSS.  
