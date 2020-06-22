@@ -3,9 +3,9 @@
 <p align="center">A <a href="https://github.com/dracula/dracula-theme">dark dracula</a> palette for <strong>MyAnimeList</strong></p>
 
 ## Install
-Change you're default Anime/Manga MyAnimeList theme to Dark Blue (https://myanimelist.net/ownlist/style) and click it so you can edit it's CSS.  
-Browse a cover image ([click here](./cover.png) to download Darling In The FranXX's) and expand `Add Custom CSS`:  
-The custom CSS can be found [here](https://raw.githubusercontent.com/dracula/dracula-theme/master/README.md).  
+Change you're default Anime/Manga MyAnimeList theme to **[Dark Blue](https://myanimelist.net/ownlist/style)** and click it's image so you can edit the CSS.  
+Browse a cover image (eg.: [Darling In The FranXX's](./cover.png)) and expand `Add Custom CSS`:  
+The custom CSS can be found [here](https://raw.githubusercontent.com/MateusAquino/myanimelist-dracula/master/styles.css).  
 Save it, and you are done!  
   
 However, if you wish to use your own cover image instead, you may have to change some CSS settings as explained below.
