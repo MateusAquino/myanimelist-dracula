@@ -1,0 +1,115 @@
+/* COVER */
+#cover-image-container.image-container #cover-image {
+    width: 100%;
+    height: 450px;
+    margin-top: -240px; /* If you change your cover img, you may also change these values */
+}
+
+#cover-image-container.image-container {
+    display: inherit;
+    height: 200px;
+    overflow: hidden;
+}
+
+/* PAGE */
+.list-container {
+    border: 0;
+}
+
+body,
+#status-menu,
+.status-menu-container,
+#list-container {
+    background-color: #282936 !important;
+}
+
+.list-table .list-table-header .header-title,
+#footer-block {
+    background: #323340 url("/img/pc/ownlist/bar-table-header-dark.png") no-repeat right 7px / 1px 22px;
+}
+
+.list-unit .list-status-title {
+    background-color: #bd93f9;
+}
+
+.list-table .list-table-header .header-title .link.sort,
+.list-table .list-table-header .header-title .link,
+.list-table .list-table-data .data a,
+.list-table .list-table-data .tags .edit,
+.status-menu-container .search-container #search-button {
+    color: #bd93f9 !important;
+}
+
+.list-table .list-table-header .header-title .link.sort:hover,
+.list-table .list-table-header .header-title .link:hover,
+.list-table .list-table-data .data a:hover,
+.list-table .list-table-data .tags .edit:hover,
+.status-menu-container .search-container #search-button:hover {
+    color: #ff79c6 !important;
+}
+
+.list-menu-float .icon-menu svg.icon {
+    fill: #bd93f9;
+}
+
+.status-menu-container .status-menu .status-button {
+    color: #bd93f9;
+    opacity: .8;
+}
+
+.status-menu-container .status-menu .status-button.on {
+    color: #bd93f9;
+    opacity: 1;
+}
+
+.status-menu-container .status-menu .status-button.on::after {
+    background-color: #ff79c6;
+}
+
+.status-menu-container .status-menu .status-button:hover {
+    color: #ff79c6;
+    opacity: .85;
+}
+
+.status-menu-container .status-menu .status-button:hover::after {
+    background-color: #8be9fd;
+}
+
+.status-menu-container .status-menu .status-button.on:hover {
+    color: #ff79c6;
+    opacity: 1;
+}
+
+.status-menu-container .status-menu .status-button.on:hover::after {
+    background-color: #8be9fd;
+}
+
+/* FLOAT LIST TO THE RIGHT */
+.list-menu-float {
+    left: calc(100% - 50px);
+}
+
+/* CUSTOM SCROLL */
+:root {
+    scrollbar-color: rgb(210, 210, 210) #282936 !important;
+    scrollbar-width: thin !important;
+}
+
+body::-webkit-scrollbar-button {
+    display: none
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: rgb(210, 210, 210);
+    border-radius: 16px;
+    border: 4px solid #282936
+}
+
+body::-webkit-scrollbar {
+    background-color: #282936;
+    width: 16px
+}
+
+body::-webkit-scrollbar-track {
+    background-color: #282936
+}
