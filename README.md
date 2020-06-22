@@ -2,6 +2,13 @@
 <h1 align="center">MyAnimeList Dracula Theme</h1>
 <p align="center">A <a href="https://github.com/dracula/dracula-theme">dark dracula</a> palette for <strong>MyAnimeList</strong>. 🧛</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/css-three-informational?logo=CSS3"></img>
+  <a aria-label="Live Preview" href="https://myanimelist.net/animelist/MateusAquino?status=7">
+  	<img src="https://img.shields.io/badge/live%20preview-⮞-done"></img>
+  </a>
+</p>
+
 ## Install
 Change you're default Anime/Manga MyAnimeList theme to **[Dark Blue](https://myanimelist.net/ownlist/style)** and click it's image so you can edit the CSS.  
 Browse a cover image (eg.: [Darling In The FranXX's](./cover.png)) and expand `Add Custom CSS`:  
