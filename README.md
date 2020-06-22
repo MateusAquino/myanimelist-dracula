@@ -23,6 +23,6 @@ Before saving your new theme, select `Preview` and adjust the cover's css margin
 ```
 When you're done, save it and enjoy. 
 
-## Licença
+## License
 
 [MIT](./LICENSE) &copy; [Mateus Aquino](https://github.com/MateusAquino)
